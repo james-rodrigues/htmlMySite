@@ -1,0 +1,26 @@
+/*************************************TAG SELECTORS******************************/
+h1 {
+  color: blue;
+}
+
+img {
+  background-color: red;
+}
+
+
+/**********************************CLASS SELECTORS*********************************/
+.bacon {
+  background-color: green;
+}
+
+.pineapple{
+  background-color: yellow;
+}
+
+.circular {
+  border-radius: 100%;
+}
+/***********************************ID SELECTORS***********************************/
+#pid {
+  color: grey;
+}
